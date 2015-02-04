@@ -1,5 +1,5 @@
 import java.util.ArrayList; import java.util.Collections; import java.util.Random;
-//testing for github
+
 public class Pool {
 	
 //Arraylist taking in Tiles class so each element in ArrayList will contain both letter and point
